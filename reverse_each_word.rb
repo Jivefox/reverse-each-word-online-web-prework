@@ -5,5 +5,4 @@ end
   x.reverse!
   sentence1.join
 end
-end
 
