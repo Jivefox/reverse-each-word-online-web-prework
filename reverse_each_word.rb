@@ -14,3 +14,4 @@ def reverse_each_word_collect(string)
     x.reverse
   new_array = array.join(' ')
 end
+end
